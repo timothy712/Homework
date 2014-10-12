@@ -1,0 +1,212 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.wrap{
+	height: 700px;
+}
+
+.header{
+	height: 90px;
+	background: red;
+	padding-top: 10px;
+}
+
+
+.menu_1{
+	float: right;
+	background: url('images/menu-5.png') no-repeat;
+	height: 80px;
+	width: 80px;
+}
+
+.menu_2{
+	float: right;
+	background: url('images/menu-4.png') no-repeat;
+	height: 80px;
+	width: 80px;
+	margin-right: 10px;
+}
+
+
+.menu_3{
+	float: right;
+	background: url('images/menu-3.png') no-repeat;
+	height: 80px;
+	width: 80px;
+	margin-right: 10px;
+}
+
+.menu_4{
+	float: right;
+	background: url('images/menu-2.png') no-repeat;
+	height: 80px;
+	width: 80px;
+	margin-right: 15px;
+}
+
+
+.menu_5{
+	float: right;
+	background: url('images/menu-1.png') no-repeat;
+	height: 80px;
+	width: 80px;
+	margin-right: 0px;
+	margin-top: 5px;
+}
+
+
+.content{
+	height: 190px;
+	background: blue;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.footer{
+	height: 300px;
+	background: green;
+	padding: 10px 0 10px 0;
+}
+
+.left{
+	height: 290px;
+	width: 300px;
+	float: left;
+	background: yellow;
+	margin:0 5% 0 5%;
+	padding-top: 10px;
+	position: relative;
+}
+
+.center{
+	height: 290px;
+	width: 300px;
+	float: left;
+	background: orange;
+	margin:0 5% 0 5%;
+	padding-top: 10px;
+}
+
+.right{
+	height: 290px;
+	width: 300px;
+	float: left;
+	background: gray;
+	margin:0 5% 0 5%;
+	padding-top: 10px;
+}
+
+.logo{ 
+	
+	background: url('images/logo.png') no-repeat;
+	height: 70px;
+	float: left;
+	width: 400px;
+}
+
+.demo{
+	background: url('images/demo.png') no-repeat;
+	height: 180px;
+	width: 300px;
+	float: right;
+}
+
+.body{
+	width: 600px;
+	background: pink;
+	float: left;
+}
+
+h1{
+	font-size:200%;
+	color:blue;
+}
+
+.product1{
+	background: url('images/product-1.png')50% no-repeat;
+	height: 150px;
+
+}
+
+.product2{
+	background: url('images/product-2.png')50% no-repeat;
+	height: 150px;
+}
+
+.product3{
+	background: url('images/product-3.png')50% no-repeat;
+	height: 150px;
+}
+
+.s1{
+	display: block;
+	font-size:150%;
+	color:black;
+	margin:0 auto 0 auto;
+	width: 210px;
+}
+
+.s2{
+	display: block;
+	font-size:150%;
+	color:black;
+	margin:0 auto 0 auto;
+	width: 220px;
+}
+
+.s3{
+	display: block;
+	font-size:150%;
+	color:black;
+	margin:0 auto 0 auto;
+	width: 100px;
+}
+
+
+p{
+	display: block;
+	margin:0 50%; 
+	position: absolute;
+	left:50%;
+}
