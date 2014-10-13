@@ -152,10 +152,14 @@ table {
 	height: 180px;
 	width: 300px;
 	float: right;
+	position: relative;
 }
 
 .word{
 	display:block;
+	position: absolute;
+	top:150px;
+	left: 20px;
 }
 
 .body{
