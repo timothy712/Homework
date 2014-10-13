@@ -115,7 +115,7 @@ table {
 	height: 290px;
 	width: 230px;
 	float: left;
-	
+	background: #33FFDD;
 	margin:0 5% 0 5%;
 	padding-top: 10px;
 	position: relative;
@@ -125,7 +125,7 @@ table {
 	height: 290px;
 	width: 230px;
 	float: left;
-	
+	background: #33FFDD;
 	margin:0 5% 0 5%;
 	padding-top: 10px;
 }
@@ -134,7 +134,7 @@ table {
 	height: 290px;
 	width: 230px;
 	float: left;
-	
+	background: #33FFDD;
 	margin:0 5% 0 5%;
 	padding-top: 10px;
 }
@@ -152,6 +152,10 @@ table {
 	height: 180px;
 	width: 300px;
 	float: right;
+}
+
+.word{
+	display:block;
 }
 
 .body{
