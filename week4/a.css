@@ -57,14 +57,14 @@ table {
 
 .menu_1{
 	float: right;
-	background: url('images/menu-5.png') no-repeat;
+	background: url('../images/menu-5.png') no-repeat;
 	height: 80px;
 	width: 80px;
 }
 
 .menu_2{
 	float: right;
-	background: url('images/menu-4.png') no-repeat;
+	background: url('../images/menu-4.png') no-repeat;
 	height: 80px;
 	width: 80px;
 	margin-right: 10px;
@@ -73,7 +73,7 @@ table {
 
 .menu_3{
 	float: right;
-	background: url('images/menu-3.png') no-repeat;
+	background: url('../images/menu-3.png') no-repeat;
 	height: 80px;
 	width: 80px;
 	margin-right: 10px;
@@ -81,7 +81,7 @@ table {
 
 .menu_4{
 	float: right;
-	background: url('images/menu-2.png') no-repeat;
+	background: url('../images/menu-2.png') no-repeat;
 	height: 80px;
 	width: 80px;
 	margin-right: 15px;
@@ -90,7 +90,7 @@ table {
 
 .menu_5{
 	float: right;
-	background: url('images/menu-1.png') no-repeat;
+	background: url('../images/menu-1.png') no-repeat;
 	height: 80px;
 	width: 80px;
 	margin-right: 0px;
@@ -141,14 +141,14 @@ table {
 
 .logo{ 
 	
-	background: url('images/logo.png') no-repeat;
+	background: url('../images/logo.png') no-repeat;
 	height: 70px;
 	float: left;
 	width: 400px;
 }
 
 .demo{
-	background: url('images/demo.png') no-repeat;
+	background: url('../images/demo.png') no-repeat;
 	height: 180px;
 	width: 300px;
 	float: right;
@@ -166,18 +166,18 @@ h1{
 }
 
 .product1{
-	background: url('images/product-1.png')50% no-repeat;
+	background: url('../images/product-1.png')50% no-repeat;
 	height: 150px;
 
 }
 
 .product2{
-	background: url('images/product-2.png')50% no-repeat;
+	background: url('../images/product-2.png')50% no-repeat;
 	height: 150px;
 }
 
 .product3{
-	background: url('images/product-3.png')50% no-repeat;
+	background: url('../images/product-3.png')50% no-repeat;
 	height: 150px;
 }
 
